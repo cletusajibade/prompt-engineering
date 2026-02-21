@@ -14,9 +14,7 @@ Context is leverage.
 
 ## Step 2: Use This Meta-Prompt
 
-Copy and paste the prompt below into your coding agent.
-
-Make sure to replace `PASTE_WEAK_PROMPT_HERE` with your original weak prompt.
+Copy and paste the prompt below into your coding agent. Make sure to replace `PASTE_WEAK_PROMPT_HERE` with your original weak prompt.
 
 
 >[!NOTE]
