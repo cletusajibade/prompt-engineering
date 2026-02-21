@@ -1,11 +1,9 @@
-```md
 # A Practical Strategy to Upgrade Your Prompts
 
 Here’s how you can use your coding agent to improve your prompt engineering automatically.
 
 This method turns mediocre prompts into powerhouse instructions.
 
----
 
 ## Step 1: Give Your Agent Full Context
 
@@ -13,7 +11,6 @@ Ensure your coding agent has access to your entire codebase.
 
 Context is leverage.
 
----
 
 ## Step 2: Use This Meta-Prompt
 
@@ -31,9 +28,6 @@ Make sure to replace `PASTE_WEAK_PROMPT_HERE` with your original weak prompt.
 >
 > `<PASTE_WEAK_PROMPT_HERE>`
 
-
----
-
 ## Step 3: Deploy the Optimized Prompt
 
 Wait for your coding agent to respond.
@@ -43,4 +37,3 @@ Then:
 1. Copy the optimized prompt.
 2. Use it to instruct your agent to build the feature properly.
 
----
