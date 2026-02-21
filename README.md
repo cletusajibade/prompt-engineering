@@ -19,7 +19,6 @@ Copy and paste the prompt below into your coding agent.
 Make sure to replace `PASTE_WEAK_PROMPT_HERE` with your original weak prompt.
 
 
->[!NOTE]
 > **Prompt Template**
 >
 > Based on your knowledge of this codebase, generate a refined version of the prompt below; rewrite it according to prompt engineering best practices. Structure it in a way that reflects how the best prompts are written today to consistently obtain the highest-quality responses from any LLM coding agent. Do not write any code — only generate the best-performing prompt.
